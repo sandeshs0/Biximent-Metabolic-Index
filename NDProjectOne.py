@@ -1,4 +1,4 @@
-# BMI Recommendation Treatment by Nabin Dhakal
+
 print("---Welcome. Let's know something about you.---")
 weight = (input("Enter your weight in Kilograms: "))
 age = (input("Enter your Age in Solar Cycles: "))
